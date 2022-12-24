@@ -14,9 +14,9 @@
   "author": "Sergey Sokurenko",
   "license": "(c) Copyright 2016 Sergey Sokurenko",
   "devDependencies": {
-    "node-sass": "^3.7.0",
-    "nodemon": "^1.9.2",
-    "uglify-js": "^2.6.2"
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.20",
+    "uglify-js": "^3.17.4"
   },
   "dependencies": {
   }
