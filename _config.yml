@@ -1,0 +1,15 @@
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+email: hair@poppyevanshair.com
+brand: Poppy Evans Hair
+headline: Hair Dresser, Stylist, Colourist, Legend
+description: > # this means to ignore newlines until "baseurl:"
+  New Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://poppyevanshair.com" # the base hostname & protocol for your site
+copyright: 2022 Poppy Evans Hair Ltd. All Right Reserved
+
+# Build settings
+markdown: kramdown
+
+snapwidget: 1020081
