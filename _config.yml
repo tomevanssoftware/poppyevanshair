@@ -1,15 +1,21 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-email: hair@poppyevanshair.com
+email: enquiries@poppyevanshair.com
 brand: Poppy Evans Hair
-headline: Hair Dresser, Stylist, Colourist, Legend
-description: > # this means to ignore newlines until "baseurl:"
-  New Site
+headline: Hair Dresser, Stylist, Colourist
+description: Poppy Evans Hair
+domain: poppyevanshair.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://poppyevanshair.com" # the base hostname & protocol for your site
-copyright: 2022 Poppy Evans Hair Ltd. All Right Reserved
+url: "https://poppyevanshair.com"
+copyright: 2022 Poppy Evans. All Right Reserved
 
 # Build settings
 markdown: kramdown
-
 snapwidget: 1020081
+
+phone: +44 (0) 1279 426111
+address_link: "https://www.google.co.uk/maps/place/Avant+Garde/@51.7710363,0.0883903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d89c00f1fc4ff5:0x2b4ccbb21a7e5d81!8m2!3d51.7710364!4d0.092875"
+address: "Avant Garde, 18 The Rows, Harlow CM20 1BZ"
+
+instagram: "@poppyevanshair"
+instagram_link: https://www.instagram.com/poppyevanshair/

@@ -1,5 +1,8 @@
 // Block: container-about
 
 .container-about {
+  display: block;
   margin-top: $spacer;
+  text-align: center;
+  position: relative;
 }
