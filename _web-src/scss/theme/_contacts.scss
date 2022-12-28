@@ -12,7 +12,8 @@
 
   &-phone,
   &-email {
-    font-size: 1.8rem;
+    position: inherit;
+    font-size: 1.25rem;
     padding: $spacer;
     border-radius: $border-radius;
     background-color: $theme-color-main;

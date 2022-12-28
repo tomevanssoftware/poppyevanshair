@@ -5,4 +5,8 @@
   margin-top: $spacer;
   text-align: center;
   position: relative;
+
+  &-title {
+    text-align: start;
+  }
 }
