@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <h1>Contacts</h1>
             </div>
-            <div class="col-md-6 col-sm-12 container-contacts-phone">
+            <div class="col-md-6 col-sm-12 container-contacts-email">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <a href="mailto:{{ site.email }}">
                     {{ site.email }}
@@ -14,6 +14,18 @@
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <a href="tel:{{ site.phone }}">
                     {{ site.phone }}
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-12 container-contacts-phone">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <a href="{{ site.address_link }}">
+                    {{ site.address }}
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-12 container-contacts-phone">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+                <a href="{{ site.instagram_link }}">
+                    {{ site.instagram }}
                 </a>
             </div>
         </div>
